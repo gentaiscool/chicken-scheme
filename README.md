@@ -1,5 +1,7 @@
 # comp4221-chicken-scheme
 
+### Chicken Scheme Programming Assignments for COMP 4221 Natural Language Processing
+
 ### a1.scm
 #### Part 1 
 

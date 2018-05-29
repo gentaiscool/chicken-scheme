@@ -1,6 +1,6 @@
 # comp4221-chicken-scheme
 
-### Chicken Scheme Programming Assignments for COMP 4221 Natural Language Processing
+### Chicken Scheme Programming Assignments for COMP 4221 Natural Language Processing at HKUST
 Chicken is a compiler for Scheme Programming Language. It is very similar to Haskell and easy to code.
 Check this page https://www.call-cc.org/ to find more information about the language.
 

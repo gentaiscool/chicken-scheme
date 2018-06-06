@@ -1,6 +1,4 @@
-# comp4221-chicken-scheme
-
-### Chicken Scheme Programming Assignments for COMP 4221 Natural Language Processing at HKUST
+# Permutation in Chicken-Scheme
 Chicken is a compiler for Scheme Programming Language. It is very similar to Haskell and easy to code.
 Check this page https://www.call-cc.org/ to find more information about the language.
 
@@ -151,3 +149,6 @@ But now what happens?
 ```
 
 Re-implement the my-or macro, in a way that avoids this variable capture problem from using define-macro, by instead using define-syntax to invoke Scheme's built-in `hygienic' and `referentially transparent' macro system.
+
+## Note
+COMP 4221 - Natural Language Processing in HKUST

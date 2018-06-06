@@ -1,6 +1,19 @@
-# Permutation in Chicken-Scheme
-Chicken is a compiler for Scheme Programming Language. It is very similar to Haskell and easy to code.
-Check this page https://www.call-cc.org/ to find more information about the language.
+# Permutation in Chicken Scheme
+This project shows how to code permutation function in Chicken Scheme. 
+Basically, Chicken is a compiler for Scheme Programming Language. It is very easy to learn if you know Haskell or other functional programming languages. 
+
+## Run the code
+- Install Chicken Scheme (https://www.call-cc.org/)
+- Chicken can be used as an interpreter 
+```
+> csi
+> (load "a1.scm")
+; loading a1.scm ...
+```
+- Or as a compiler
+```
+> csc -o a1 a1.scm
+```
 
 ### a1.scm
 #### Part 1 
